@@ -5,9 +5,8 @@
 ## 📜 Summary
 
 ## 🧰 Components
-
 -Arduino Nano
--64- 5mm blue LEDs
+-64 5mm blue LEDs
 -Female Headers
 -Rainbow Ribbon cable
 -100Ω Resistor
