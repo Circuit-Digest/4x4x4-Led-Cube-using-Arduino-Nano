@@ -5,14 +5,14 @@
 ## 📜 Summary
 
 ## 🧰 Components
--Arduino Nano
--64 5mm blue LEDs
--Female Headers
--Rainbow Ribbon cable
--100Ω Resistor
--3V battery to test the LED
--Zero PCB board
--Copper wire
+ -Arduino Nano
+ -64 5mm blue LEDs
+ -Female Headers
+ -Rainbow Ribbon cable
+ -100Ω Resistor
+ -3V battery to test the LED
+ -Zero PCB board
+ -Copper wire
 
 ## 📺 Watch the Tutorial
 
